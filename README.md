@@ -1,2 +1,2 @@
-# Swift-Algorithms
+# Swift Algorithms
 Swift algorithms collection
